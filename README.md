@@ -1,14 +1,34 @@
-## Hello Devs! 👋
-### Seja bem vindo ao meu perfil GitHub!
-<div>
-   <img align="center" src="avatar.jpg"
+<p>
+<a target="blank"> <img align="right" src="avatar.jpeg" width="250"/>
+</a>
+<p>
+<h1 align="left">
+Hello Devs! 👋
+</h3>
+</p>
+</p>
+<p>
+<h2>
+Sejam bem vindes ao meu perfil GitHub!
+</h2>
+</p>
 
 
-Tenho 19 anos, sou de Olinda-PE, vinda da área de saúde(enfermagem), decidi fazer uma  transição de carreira para a área de tecnologia,troquei curativos por aplicativos. Sou iniciante no mundo da programação mas estou cada vez mais apaixonada por tudo isso!❣️
-<div>
-<img align=" right" src="16 Sem Título_20220715001015.png" width="250px"
-/>
+   
+   <div col="md-6">
+Tenho 19 anos, moro em Olinda-PE, vinda da área de saúde(enfermagem), decidi fazer uma  transição de carreira para a área de tecnologia,troquei curativos por aplicativos. Sou iniciante no mundo da programação mas estou cada vez mais apaixonada por tudo isso!❣️
 </div>
+</div>
+   
+
+
+
+
+
+
+<div align="left">
+<img align="center" src="16 Sem Título_20220715001015.png" width="250px"/>
+
 
 <h3>
 🖥️ Tecnologias e Ferramentas:
@@ -19,5 +39,7 @@ Tenho 19 anos, sou de Olinda-PE, vinda da área de saúde(enfermagem), decidi fa
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" />
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" />
 </div>
+</div>
+📚 Tenho estudado Java;
 
  
